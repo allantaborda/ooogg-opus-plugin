@@ -1,0 +1,44 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.allantaborda</groupId>
+	<artifactId>ooogg-opus-plugin</artifactId>
+	<version>0.9.7-SNAPSHOT</version>
+	<name>OOOGG Opus Plugin</name>
+	<description>Plugin for OOOGG that adds support for OGG Opus file format to Java Sound API.</description>
+	<url>https://github.com/allantaborda/ooogg-opus-plugin</url>
+	<licenses>
+		<license>
+			<name>BSD 3-Clause License</name>
+			<url>https://opensource.org/licenses/BSD-3-Clause</url>
+		</license>
+	</licenses>
+	<developers>
+		<developer>
+			<name>Allan Taborda dos Santos</name>
+			<email>allan-taborda@bol.com.br</email>
+			<url>https://github.com/allantaborda/</url>
+		</developer>
+	</developers>
+	<scm>
+		<connection>scm:git:git://github.com/allantaborda/ooogg-opus-plugin.git</connection>
+		<developerConnection>scm:git:ssh://github.com:allantaborda/ooogg-opus-plugin.git</developerConnection>
+		<url>http://github.com/allantaborda/ooogg-opus-plugin/tree/master</url>
+	</scm>
+	<dependencies>
+		<dependency>
+			<groupId>com.allantaborda</groupId>
+			<artifactId>ooogg</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>org.concentus</groupId>
+			<artifactId>Concentus</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
+	<properties>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+</project>
