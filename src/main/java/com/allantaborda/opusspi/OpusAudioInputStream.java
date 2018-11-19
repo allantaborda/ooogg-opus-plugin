@@ -1,4 +1,4 @@
-package org.concentus.spi;
+package com.allantaborda.opusspi;
 
 import com.allantaborda.ooogg.OggPacket;
 import com.allantaborda.ooogg.spi.OggAudioInputStream;

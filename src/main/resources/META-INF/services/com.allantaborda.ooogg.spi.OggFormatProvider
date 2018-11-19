@@ -1,2 +1,2 @@
 # Provider for OGG Opus file format
-org.concentus.spi.OpusFormatProvider
+com.allantaborda.opusspi.OpusFormatProvider

@@ -4,7 +4,7 @@
 	<artifactId>ooogg-opus-plugin</artifactId>
 	<version>0.9.7-SNAPSHOT</version>
 	<name>OOOGG Opus Plugin</name>
-	<description>Plugin for OOOGG that adds support for OGG Opus file format to Java Sound API.</description>
+	<description>Plugin for OOOGG that adds support for the Opus codec to it, allowing playback and recording of OGG Opus files (which have the .opus extension) through Java Sound API.</description>
 	<url>https://github.com/allantaborda/ooogg-opus-plugin</url>
 	<licenses>
 		<license>

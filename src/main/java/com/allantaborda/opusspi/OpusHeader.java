@@ -1,4 +1,4 @@
-package org.concentus.spi;
+package com.allantaborda.opusspi;
 
 import com.allantaborda.ooogg.OggPackable;
 import com.allantaborda.ooogg.OggPacket;
